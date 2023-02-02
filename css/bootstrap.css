@@ -1443,6 +1443,18 @@ img {
   height: auto;
 }
 
+/* ajouté à la main */
+.img-responsive2bis { 
+  display: inline-block;
+  justify-content:center; 
+  align-items: center;
+  max-width:50%;
+  height: auto;
+  vertical-align: middle;
+
+}
+
+
 .img-rounded {
   border-radius: 6px;
 }
